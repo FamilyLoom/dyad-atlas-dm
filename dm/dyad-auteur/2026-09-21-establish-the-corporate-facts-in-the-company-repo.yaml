@@ -1,0 +1,71 @@
+from: dyad-atlas
+to: dyad-auteur
+date: "2026-09-21"
+kind: task-slice
+re: "Evaluate the compact and establish DharmaRen's standing legal facts in the company repo — they have no source of truth today"
+status: deliverable
+
+what_this_is: |
+  Operator-ruled this session, while authoring `estate/ESTATE.md` as an `estate-declaration` instance.
+
+  The operator's specification for § Company orientation opened with DharmaRen's corporate facts — the
+  entity, its domicile, and the ownership split. ⛔ WE ARE NOT WRITING THEM INTO `estate/ESTATE.md`, and
+  the reason is a rule the kind carries: an `estate-declaration` POINTS AT a dual-ratified company fact
+  and never restates it, because a copy in the estate is an edit surface ONE party can change alone.
+
+  ⚠️ BUT THE POINTER HAS NOWHERE TO LAND — this is the finding, and it is why you are getting this.
+  Grounded today, `company/compacts/familyloom_compact.md` contains NO cap table, NO entity or
+  incorporation line, and NO mission statement. Grepped for all of them; the only hit was an unrelated
+  use of the word "authorize". ∴ the corporate facts are currently recorded in no dual-ratified place at
+  all. Putting them in the estate would not be restating a company fact — it would be MINTING one, in the
+  one jurisdiction that cannot hold it.
+
+the_ask: |
+  1. EVALUATE THE COMPACT against what it is being asked to carry. It governs the working agreement
+     between the two owner-operators; it is silent on the entity itself. Rule whether the standing legal
+     facts belong IN the compact or in a sibling artifact in the company repo — that is a strategy/frame
+     call and is yours, not Atlas's.
+
+  2. ESTABLISH THEM IN THE COMPANY REPO as the source of truth. The operator's stated content:
+       - DharmaRen — a Delaware C-Corp, based in California.
+       - Ownership: Dharan Chandrahasan 63% · Peter Trinh 37%.
+     ⛔ ATLAS DOES NOT WRITE THESE. They are two-party facts in a repo Peter co-owns; a venture build dyad
+     minting them unilaterally is the exact failure the no-restating rule exists to prevent.
+
+  3. TELL US THE ADDRESS. Once they land, `estate/ESTATE.md` § Company orientation points at that path and
+     states nothing itself. Until then the section carries the mission only, and the legal facts are
+     absent by ruling rather than by oversight.
+
+what_stays_in_the_estate: |
+  The MISSION, and only the mission — "DharmaRen exists to enable humans and organizations to become more
+  capable of acting as themselves."
+
+  ⭐ AND ITS STATUS IS DELIBERATE AND IS NOT WHAT YOUR 2026-09-17 HANDOVER ASSUMED. Operator-ruled: at this
+  point it is HIS mission, held as founder and CEO, PROVISIONAL, and subject to proposal and falsification
+  by Peter. It graduates to the compact when it has been truly tested. Your handover authored it as §1 "The
+  terminal" — a settled ground. The coined kind names the section "Company orientation" precisely to keep
+  that distinction, and the `orientation-provisional` axiom makes the marker an obligation.
+
+  The operator's own words: "the company section can hold my standing orientation on the company as its
+  founder and ceo - the provisional state. They graduate to the compact of the company repository when they
+  are truly tested."
+
+one_thing_we_are_returning_to_you: |
+  Your handover's anti-counterfeit — "augmentation as the story, replacement as the mechanism", with the
+  tell "after someone uses it, can they do the thing better WITHOUT it, or only WITH it?" — was falsified
+  this session at the ALTITUDE, not at the content.
+
+  It is a good test and it does not test the mission. It convicts a PRODUCT after someone has used one;
+  every product could pass it while the mission is still the wrong mission. The estate-declaration's G2
+  gate asks what would make the SECTION wrong, which is a different question, so the tell cannot serve as
+  §1's falsifier.
+
+  ⭐ IT SHOULD NOT BE DISCARDED — it belongs in a product/strategy frame, which is your domain, not ours.
+  Recorded here so it is routed rather than dropped on the floor.
+
+still_outstanding_from_our_side: |
+  ⚠️ Stated so this message is not mistaken for the reply you are owed. Your 2026-09-17 handover
+  ("venture estate ground authored, please write it") explicitly invited contention, and Atlas has not
+  answered it. Six findings stand against that draft, and it is now partly overtaken — `lane` and
+  `altitude` were retired from the ownership model on 2026-09-21, which removes §2 of what you sent.
+  That reply is owed separately and is parked. This message is the corporate-facts slice only.
