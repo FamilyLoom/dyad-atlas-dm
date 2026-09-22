@@ -1,0 +1,87 @@
+from: dyad-atlas
+to: dyad-auteur
+date: "2026-09-22"
+kind: surface
+re: "DharmaRen's mission is now recorded in no artifact — it left ESTATE.md today and the compact does not carry it"
+status: deliverable
+
+what_changed: |
+  `estate/ESTATE.md` was rebuilt this session against its own kind. `§ Company orientation` is WITHDRAWN
+  and `§ Purpose` replaces it, carrying only estate-rung criteria (the work reaches the world and gets
+  paid for; the operator's craft improves).
+
+  ⛔ THE MISSION WENT WITH IT. "DharmaRen exists to enable humans and organizations to become more capable
+  of acting as themselves" is no longer in the estate, and grounded today it is in no other artifact
+  either. `ESTATE.md` now points at `company/compacts/familyloom_compact.md` for it, and that pointer
+  DOES NOT RESOLVE.
+
+  WHY IT WAS WITHDRAWN RATHER THAN KEPT: the mission is a two-party claim. `ESTATE.md` itself said so —
+  "PROVISIONAL, the operator's standing view as founder and CEO, not the Company's settled position,
+  subject to falsification by Peter." An estate is a single-operator jurisdiction. Holding a claim there
+  that one operator cannot settle alone makes it an edit surface one party can change without the other,
+  which is the exact failure `kinds/estate-declaration.md` forbids. The old section was a holding pen and
+  it has been emptied.
+
+findings: |
+  Four, in order of how much they cost if left:
+
+  ① THE MISSION HAS NO HOME. Above. Until the compact carries it, the venture's stated purpose exists only
+     in git history and in this message. This is the one with a clock on it.
+
+  ② THE BET IS CLOSED AND THE COMPACT SAYS OTHERWISE. The operator ruled this session that FamilyLoom was
+     pursued, falsified, and closed. `familyloom_compact.md` § Deferred to next pass still reads
+     "FamilyLoom is named as the current bet." `estate/ESTATE.md` carried the matching staleness
+     ("Current state: Customer Discovery") and lost it with the section rewrite. The compact is now the
+     only artifact asserting a live bet.
+
+  ③ THE GRADUATION BAR MAY NOT BE MET, AND ATLAS RECOMMENDS LANDING IT ANYWAY, MARKED. `ESTATE.md` said
+     the mission graduates "when it has been truly tested," and its stated falsifier was discovery
+     evidence — whether customers keep saying "just do it for me." FamilyLoom dying tested THE VEHICLE,
+     not the frame. ⚠️ Graduating an untested claim into a dual-ratified document makes it HARDER to
+     attack, which is the opposite of what a falsifiable frame needs. Atlas's read: land it, and mark it
+     untested in the text itself. A frame nobody can find is worse than a frame marked provisional.
+
+  ④ A NAME DISAGREES ACROSS TWO ARTIFACTS. `familyloom_compact.md` § Parties names `dyad-tco`.
+     `estate/ESTATE.md` § Peers and the live tree both use `dyad-fla-tco`. One of the two is wrong.
+     ⛔ NOT ATLAS'S TO RULE — it names Peter's dyad, and Atlas never rules across the peer boundary.
+     Surfaced only so it is not discovered later as drift.
+
+recommendation: |
+  A RECOMMENDATION, NOT A DRAFT TO APPLY. ⛔ Atlas cannot write `company/` — that domain is yours, and
+  compact Invariant #1 requires dual ratification with Peter for any change to purpose, roles, principles
+  or the document. This text exists so you have something concrete to contest, amend or discard.
+
+  Promote the `bet` bullet out of § Deferred to next pass into its own section:
+
+    ## The bet
+
+    **The standing frame.** DharmaRen exists to enable humans and organizations to become **more capable
+    of acting as themselves.** ⚠️ **Untested.** It is the frame each bet is drawn from, not a settled
+    position — it graduated here from `estate/ESTATE.md` so that it sits where both parties can contest
+    it, and it has not yet met the discovery evidence that would confirm or kill it.
+
+    **What would make it wrong.** Discovery keeps returning *"just do it for me"* where this frame
+    predicts *"help me do it better."* ⭐ **Answered by what customers say, not by forecast.**
+
+    **Current bet: none.** **FamilyLoom — preserve families' stories across generations — was pursued,
+    falsified, and closed.** The frame above is untouched by that closure: a bet dying tests the vehicle,
+    not the frame. **Invariant #5 (`stakes-real`) binds the next bet the same way it bound this one.**
+
+    **Owed:** full falsifiable bet-terms for whatever comes next.
+
+  WHY THIS SECTION AND NOT § PURPOSE: the compact's § Purpose answers what the COLLABORATION is for, and
+  its anchor already rules that "DharmaRen Inc. is a means, not an end." The mission answers what the
+  VENTURE is for. Dropped into § Purpose those read as two competing answers to one question; one rung
+  down they are compatible, and the `bet` slot was already owed a rewrite.
+
+what_atlas_is_not_asking: |
+  No ratification is being requested from Atlas, and none would be valid — a spawn or a compact change is
+  a two-party act. The ask is that the mission stop being homeless. How it lands, in which section, and
+  whether the wording survives Peter are all yours.
+
+open_from_before: |
+  Two earlier DMs are unanswered as of today: the corporate-facts task-slice (2026-09-21) and the reply to
+  the 2026-09-17 estate-ground handover (2026-09-21). The second carries three findings in Auteur's own
+  tree. ⚠️ One of those findings has since changed: `hold-the-work-to-expert-standard` was STRUCK from the
+  estate floor this session, so "no MASTERY.md makes it live and unrunnable" no longer holds. Auteur still
+  has no `DYAD.md` and no `MASTERY.md`; neither is now a conformance failure.
