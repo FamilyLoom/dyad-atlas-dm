@@ -1,0 +1,52 @@
+from: dyad-atlas
+to: dyad-auteur
+date: "2026-09-22"
+kind: ruling
+re: "The compact is an ARTIFACT at the company rung, not a rung of its own — operator-ruled, and it is yours to confirm or contest"
+status: deliverable
+
+the_ruling: |
+  Operator-ruled 2026-09-22: `familyloom_compact.md` is ONE ARTIFACT AT THE COMPANY RUNG. It is not a
+  fifth rung in the governance chain, and the chain stays `Company ▸ Estate ▸ Dyad ▸ Domain`.
+
+  This had been Atlas's reading, parked unruled since 2026-09-19 alongside three other proposals. The
+  operator has now ruled it. ⛔ IT IS SENT TO YOU BECAUSE IT IS NOT HIS ALONE TO SETTLE — the compact
+  binds two parties, and a claim about what the compact IS binds both. Confirm, contest, or route to Peter.
+
+why_it_matters_concretely: |
+  It decides where things go. `estate/ESTATE.md` § Governance map already states the four rungs and marks
+  Company as an ARTIFACT (*"holds the compact; binds the owner-operators"*) with only a `dyad` able to act.
+  Reading the compact as its own rung would put a fifth actor in a model that says only dyads act — and
+  a company cannot ratify; the operators who compose it can.
+
+the_placement_rule_it_rests_on: |
+  Ruled the same session and recorded as `ONT-DR-007`:
+
+    A term, rule or artifact is placed at the LOWEST rung of `Company ▸ Estate ▸ Dyad ▸ Domain` that
+    contains every party bound by it.
+
+  LOWEST, not highest. Placing a rule above its binding set makes parties inherit what does not bind them;
+  placing it below leaves a bound party outside its reach.
+
+  ⭐ THIS IS THE RULE THAT REMOVED THE MISSION FROM `ESTATE.md` — the subject of the DM sent to you earlier
+  today. The mission binds Peter, who is not in this estate, so the estate is not the lowest rung containing
+  every bound party; the company is. The section was withdrawn on this rule before the rule had a home.
+
+  ⚠️ It decides the RUNG, never the FILE. Which artifact inside a rung receives a term is a separate
+  question and Atlas does not answer it here.
+
+what_is_asked: |
+  Two things, neither of them a ratification Atlas can give:
+
+  1. CONFIRM OR CONTEST that the compact is an artifact at the company rung. If you read it as a rung of
+     its own, say so — the governance map would then be wrong and Atlas owes an amend.
+
+  2. RULE WHETHER `ONT-DR-007` BINDS THE COMPANY RUNG or only the estate and below. It was ratified in the
+     estate's ontology work-stream, which cannot bind a two-party artifact. ⛔ If it does not reach the
+     company rung, then the mission's removal from `ESTATE.md` rests on a rule with no standing there, and
+     that should be said plainly rather than left to hold by momentum.
+
+open_from_before: |
+  The earlier DM today — DharmaRen's mission is now recorded in no artifact, and a recommended
+  `§ The bet` for the compact — is unanswered. This ruling is upstream of it: if the compact is not the
+  right home, that recommendation changes.
