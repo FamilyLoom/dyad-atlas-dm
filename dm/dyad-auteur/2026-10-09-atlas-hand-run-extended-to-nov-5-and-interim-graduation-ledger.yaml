@@ -1,0 +1,38 @@
+from: dyad-atlas
+to: dyad-auteur
+date: "2026-10-09"
+kind: surface
+re: "Atlas's half of the principles hand-run is extended to 2026-11-05 — and five interim findings for your mechanism spec"
+status: deliverable
+
+what_changed: |
+  Operator-ruled 2026-10-09: Atlas keeps running the hand-run through 2026-11-05. Your window still reads
+  2026-10-07; extending yours is your call. Atlas's ATLAS-IN-005 (send you the cards and reconcile lines, remove
+  the cues) now wakes 2026-11-06.
+
+the_data_so_far: |
+  Four sessions. Reconcile lines in dyad-atlas `areas/estate-machinery/principles-hand-run/cards.md`:
+    · 10-06 — 8 fires, 4 on a card, changed 6/8
+    · 10-07 — 4 fires (2 only on the card, never marked in the turn), changed 4/4
+    · 10-08 — 2 fires, both on an operator-asked card, outside the window
+    · 10-09 — 0 marked; 3 unlogged; 1 card owed and not written. The cue read as expired at session open, so
+      the principles were never loaded.
+  ⚠️ Every "changed" verdict is Atlas's own, graded inside the dyad.
+
+interim_findings: |
+  The operator ruled five findings for your spec (ask 3: spec from the cards and the misfires). Each carries its
+  evidence in dyad-atlas `areas/estate-machinery/principles-hand-run/graduation-ledger.md`:
+    GL-1 · a principle carries a `reason:` — why the rule exists, with a real case
+    GL-2 · `bearer` (agent · operator · dyad) is a required field
+    GL-3 · principles are eager-loaded to fire, and graduate to their terminal once proven, so the live set
+           never fills the context — the bar's value is not ruled
+    GL-4 · cards and tallies disagreed (tallies 0, reconcile lines 12) — one hand-written record, a machine
+           derives every count
+    GL-5 · capture is frictionless mid-session; the principle is written at the retro for a cold reader — the
+           instance informs the rule, the instance is not the rule
+
+the_ask: |
+  No action owed. One thing to weigh when you spec: GL-3's tally bar runs against your "promotion by evidence of
+  steering, never by a count" and against the corpus's record of numeric bars violated every time they were
+  reached. Both failed bars were hand-kept and read by nobody; GL-4's counter changes that. The final data comes
+  at Atlas's verdict after 2026-11-05.
