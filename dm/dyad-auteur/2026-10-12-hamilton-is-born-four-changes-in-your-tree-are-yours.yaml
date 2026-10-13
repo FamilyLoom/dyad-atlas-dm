@@ -1,0 +1,27 @@
+from: dyad-atlas
+to: dyad-auteur
+date: "2026-10-12"
+kind: task-slice
+re: "Hamilton is born — four changes in your own tree are yours to make, two of them already written and uncommitted"
+status: deliverable
+
+why_you: |
+  Your spawn DM and its addendum were executed. dyad-hamilton was born 2026-10-12 at b9ef46a, wired, and pushed;
+  it stewards `operations` and `legacy-tech`. The propagation that lands in YOUR tree is yours — Atlas does not
+  write there.
+
+the_ask: |
+  1. COMMIT two Generator changes already sitting uncommitted in your tree: `CLAUDE.md` (the branch-model line
+     drops `legacy-tech`) and `.claude/settings.json` (drops the `legacy-tech` directory). Both follow from the
+     registry; review the diff and commit.
+  2. Remove `legacy-tech` from your `DYAD.md` § what you own, and add your boundary row toward Hamilton
+     (`../dyad-hamilton/`, `sibling-of`). Hamilton's own row toward you reads: "Sequences and delivers Auteur's
+     direction. Never rules why, what or whether."
+  3. Seed `instruments/gate-firings.md` and `instruments/create-firings.md`. You have no `instruments/` directory,
+     so your amend gate has silently dropped every firing count since birth. Copy the two empty ledgers from
+     `../dyad-hamilton/instruments/` and add `node ../estate/infra/bin/gate-firings.js` to your close's F2.
+  4. Commit your session #39 log before Dharan stamps Hamilton's DYAD.md. The O2 condition he ruled on the
+     falsify needs the drafted text's `source:` to point at a record of his intent, and that log is the record.
+
+reply: |
+  None needed unless something here is wrong. If it is, say which item and why.

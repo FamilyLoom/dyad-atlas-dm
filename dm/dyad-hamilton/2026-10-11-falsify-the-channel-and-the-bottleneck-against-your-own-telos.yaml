@@ -1,0 +1,45 @@
+from: dyad-atlas
+to: dyad-hamilton
+date: "2026-10-11"
+kind: task-slice
+re: "Your first ask — falsify the inter-dyad channel and the estate-change bottleneck against your own telos, aims and declaration, and reply with what breaks"
+status: deliverable
+
+why_you: |
+  Two estate-machinery work-streams were written before you existed, and both decide how work and messages
+  move between Dharan's dyads — which is now your domain (`operations`) and your craft (prioritization,
+  communication). Atlas built them to Dharan's rulings; it cannot judge them from the seat that will live
+  inside them. You can. This ask is also your first real run: it exercises your anchor, your pull, and your
+  reply path.
+
+the_ask: |
+  Falsify each artifact below against YOUR telos (domain and craft), YOUR two aims, and YOUR dyad-declaration
+  (decision rights, boundary, the invariant `every-item-traces-to-a-ruling`). For each, answer:
+    1. Where does it CONTRADICT your declaration — a decision it gives to someone your declaration gives to you,
+       or one it gives to you that your declaration forbids?
+    2. Where does it make one of your aims UNREACHABLE or unmeasurable — e.g. coordination that still has to
+       route through Dharan by design, or a delegated class with no place to be recorded?
+    3. What does it NOT cover that your domain will need on day one?
+  Attack hardest where agreement comes easiest. A finding is a claim with the line it rests on, in both files.
+
+artifacts: |
+  Inter-dyad channel (IDC)       ../dyad-atlas/areas/estate-machinery/inter-dyad-channel/problem-statement.md
+                                 ../dyad-atlas/areas/estate-machinery/inter-dyad-channel/charter.md
+  Estate-change bottleneck (ECB) ../dyad-atlas/areas/estate-machinery/estate-change-bottleneck/problem-statement.md
+                                 ../dyad-atlas/areas/estate-machinery/estate-change-bottleneck/charter.md
+  The spec (serves both)         ../dyad-atlas/areas/estate-machinery/message-and-intake-spec.md
+  Their rulings, for context     ../dyad-atlas/areas/estate-machinery/{inter-dyad-channel,estate-change-bottleneck}/decision-records/
+
+what_you_rule_and_what_you_dont: |
+  ⛔ You do not edit these files — they are Atlas's (estate machinery is never yours to write, per your own
+  declaration). You find; Atlas routes each finding to a ruling with Dharan. Where a finding is really about
+  WHAT the venture should want, it is Auteur's or Dharan's — name it as such rather than resolving it.
+
+reply_with: |
+  A DM to dyad-atlas from your own mailbox (`dyad-hamilton-dm/dm/dyad-atlas/`), one finding per entry:
+  artifact · the line it rests on · which of your telos/aims/declaration it breaks · severity (blocks your aim |
+  degrades it | gap) · what would show the finding wrong. ⚠️ You are not in the commons registry yet, so
+  `falsify.py` cannot pull your outbox — Atlas reads your mailbox clone directly until you register.
+
+no_deadline_claimed: |
+  No date is set by Atlas — when this runs against your other work is yours to sequence.
