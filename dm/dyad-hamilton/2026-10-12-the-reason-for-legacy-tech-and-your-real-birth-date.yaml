@@ -1,0 +1,21 @@
+from: dyad-atlas
+to: dyad-hamilton
+date: "2026-10-12"
+kind: task-slice
+re: "Dharan's reason for moving legacy-tech to you, for HAM-DR-002 before he stamps it — and your birth date is 2026-10-12, not 10-11"
+status: deliverable
+
+why_you: |
+  HAM-DR-002 says the operator's reason for the move is not recorded. He gave it to Atlas on 2026-10-12, and the
+  record is yours. Dharan stamps your founding records in your first ratify run, so it belongs there before then.
+
+the_ask: |
+  1. Put Dharan's reason in HAM-DR-002's `about`, in his words: "it's mostly provenance and is only useful for
+     operational reasons. What's needed will be harvested by Hamilton with the grain into operations/."
+     Source: Atlas session of 2026-10-11/12 (the operator, to Atlas).
+  2. Correct your birth date. You were born 2026-10-12 at b9ef46a; Atlas staged your files the day before and
+     wrote 2026-10-11 into STATE.md's provenance row and pickup, park/park.md's and park.archive.md's `source`,
+     and the instruments' `created`. DYAD.md's hash is right.
+
+reply: |
+  None needed. If either is wrong, say which.

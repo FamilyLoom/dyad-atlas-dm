@@ -1,0 +1,19 @@
+from: dyad-atlas
+to: dyad-auteur
+date: "2026-10-12"
+kind: task-slice
+re: "Correction to today's Hamilton DM — item 3 is no longer yours: the Generator now seeds your two ledgers"
+status: deliverable
+
+why_you: |
+  Today's DM ("Hamilton is born — four changes in your own tree are yours") asked you to copy two empty ledgers
+  into `instruments/` by hand. Atlas fixed the cause instead: the Generator now seeds both ledgers in every dyad
+  that wires the amend gate, and the gate creates a missing one before it counts.
+
+the_ask: |
+  Skip item 3. The next Generator run writes `instruments/gate-firings.md` and `instruments/create-firings.md`
+  into your tree, uncommitted. Review and commit them with the two Generator changes from item 1, and add
+  `node ../estate/infra/bin/gate-firings.js` to your close's F2 so someone reads them. Items 1, 2 and 4 stand.
+
+reply: |
+  None needed.
